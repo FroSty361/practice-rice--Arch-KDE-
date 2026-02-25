@@ -1,0 +1,12 @@
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME/.config/kcminputrc
+Recent URLs[$e]=file:$HOME/,file:$HOME/.dotfiles/practice-rice/config/,file:$HOME/.config/
+
+[KTextEditor::Search]
+Search History=os,yellow
+
+[MainWindow]
+1920x1080 screen: Height=793
+1920x1080 screen: Width=1124
+1920x1080 screen: Window-Maximized=true
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAOeAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAIAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAGABoAGEAbQBiAHUAcgBnAGUAcgBCAGEAcgEAAAIZ/////wAAAAAAAAAA

@@ -1,0 +1,4 @@
+LINK: assets => .dotfiles/practice-rice/assets
+WARNING! stowing practice-rice would cause conflicts:
+  * cannot stow .dotfiles/practice-rice/.config/fastfetch/config.jsonc over existing target .config/fastfetch/config.jsonc since neither a link nor a directory and --adopt not specified
+All operations aborted.
