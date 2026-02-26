@@ -12,5 +12,7 @@ eval "$(starship init bash)"
 
 playMusic()
 {
-  /home/frosty/.local/bin/konsole_open.sh "$1"
+  ~/.local/bin/konsole_open.sh "$1"
 }
+
+playMusic ~/sounds/music/tetris.mp3
