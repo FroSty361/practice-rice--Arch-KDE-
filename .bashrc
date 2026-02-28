@@ -16,3 +16,7 @@ playMusic()
 }
 
 playMusic ~/sounds/music/tetris.mp3
+
+clear
+
+fastfetch

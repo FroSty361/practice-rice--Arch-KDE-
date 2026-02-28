@@ -24,8 +24,8 @@ popupHeight=400
 popupWidth=560
 
 [Containments][1][ConfigDialog]
-DialogHeight=1002
-DialogWidth=1920
+DialogHeight=645
+DialogWidth=1247
 
 [Containments][1][General]
 changedPositions={"desktop:/org.kde.konsole.desktop":["1920x1080","0","0"]}
@@ -34,7 +34,7 @@ positions={"1920x1080":["1","17","desktop:/org.kde.konsole.desktop","0","0"]}
 sortMode=-1
 
 [Containments][1][Wallpaper][org.kde.image][General]
-Image=~/assets/images/Wallpaper.png
+Image=file:///home/frosty/assets/images/Wallpaper.png
 SlidePaths=/usr/share/wallpapers/
 
 [Containments][2]
@@ -51,7 +51,7 @@ immutability=1
 plugin=org.kde.plasma.digitalclock
 
 [Containments][2][Applets][21][Configuration]
-popupHeight=400
+popupHeight=451
 popupWidth=560
 
 [Containments][2][Applets][21][Configuration][Appearance]
