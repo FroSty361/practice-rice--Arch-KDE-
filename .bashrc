@@ -12,10 +12,10 @@ eval "$(starship init bash)"
 
 playMusic()
 {
-  ~/.local/bin/konsole_open.sh "$1"
+  ~/.local/bin/playMusic.sh "$1"
 }
 
-playMusic ~/sounds/music/tetris.mp3
+playMusic ~/sounds/music/Katyusha.mp3
 
 clear
 
